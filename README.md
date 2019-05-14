@@ -1,32 +1,32 @@
-# KlassischFerkelBuchhaltung
+# ZTJAccounterExpert
 
 
-Technischer Support
+Technical support
 
-Bieten Sie technischen Support für die App "KlassischFerkelBuchhaltung". Bei Problemen mit der App wenden Sie sich bitte an: GaleNo1Good@gmail.com
+Provide technical support for the ZTJAccounterExpert app. If you have any problems with the app, please contact: GaleNo1Good@gmail.com
 
-Vielen Dank für Ihre Unterstützung beim Verstecken von Grafiken.
+Thank you for your support in hiding graphics.
 
-AppStore-Datenschutzrichtlinie
+AppStore Privacy Policy
 
-Die Software respektiert und schützt die Privatsphäre aller Benutzer, die den Dienst nutzen. Um Ihnen genauere und personalisierte Dienste anbieten zu können, verwendet und veröffentlicht die Software Ihre persönlichen Informationen gemäß dieser Datenschutzrichtlinie. Die Software wird diese Informationen jedoch mit größter Sorgfalt und Vorsicht behandeln. Sofern in dieser Datenschutzrichtlinie nichts anderes bestimmt ist, wird die Software diese Informationen nicht an Dritte oder Dritte weitergeben, bis Sie Ihre Zustimmung erhalten haben. Diese Software aktualisiert diese Datenschutzbestimmungen von Zeit zu Zeit. Durch die Zustimmung zu den Nutzungsbestimmungen für Softwareservices stimmen Sie dem gesamten Inhalt dieser Datenschutzrichtlinie zu. Diese Datenschutzrichtlinie ist ein wesentlicher Bestandteil der Nutzungsvereinbarung für Software-Services.
+The software respects and protects the privacy of all users who use the service. To provide you with more accurate and personalized services, the Software uses and publishes your personal information in accordance with this Privacy Policy. However, the software will handle this information with the utmost care and caution. Unless otherwise provided in this Privacy Policy, the Software will not disclose this information to third parties or third parties until you have obtained your consent. This software updates this Privacy Policy from time to time. By agreeing to the Software Service Terms of Use, you are agreeing to the entire content of this Privacy Policy. This Privacy Policy is an integral part of the Software Services Terms of Use Agreement.
 
-1. Geltungsbereich
+1. Scope
 
-1. Wenn Sie den Software-Webdienst verwenden, empfängt die Software nur die von Ihnen übermittelten Informationen und zeichnet die Informationen nicht auf Ihrem Mobiltelefon auf. Dazu gehören unter anderem Standortinformationen, Fotoalbum und Kamerazugriff, verwendete Sprache, Zugriff auf Daten wie Datum und Uhrzeit, Informationen zu Hardware- und Software-Funktionen sowie benötigte Webseiten-Datensätze;
+1. If you use the Software Web Service, the Software receives only the information you submit and does not record the information on your mobile phone. These include, but are not limited to, location information, photo album and camera access, language used, access to data such as date and time, information about hardware and software features, and required web page records;
 
-2. Verwendung von Informationen
+2. Use of information
 
-1. Nach dem Abrufen der von Ihnen übermittelten Daten lädt die Software die Daten auf den Server hoch, damit Sie den Dienst besser nutzen können.
+1. After retrieving the data you submit, the software uploads the data to the server to help you make better use of the service.
 
-3. Offenlegung von Informationen
+3. disclosure of information
 
-1. Die Software gibt Ihre Informationen nicht an nicht vertrauenswürdige Dritte weiter, 2. Gemäß den einschlägigen Bestimmungen des Gesetzes oder den Erfordernissen der Verwaltungs- oder Justizbehörden legen Sie diese Informationen Dritten oder Verwaltungs- und Justizbehörden offen Im Falle eines Verstoßes gegen einschlägige chinesische Gesetze, Vorschriften oder einschlägige Vorschriften muss es an Dritte weitergegeben werden.
+1. The Software does not disclose your information to untrustworthy third parties, 2. In accordance with applicable law or the requirements of the administrative or judicial authorities, disclose this information to third parties or administrative and judicial authorities in the event of any breach of any applicable Chinese law, Regulations or relevant regulations must be passed on to third parties.
 
-Informationsspeicherung und -austausch
+Information storage and exchange
 
-1. Die von der Software übermittelten Daten werden auf dem Server der mit der Software verbundenen Firma gespeichert.
+1. The data transmitted by the software is stored on the server of the company affiliated with the software.
 
-V. Informationssicherheit
+V. Information Security
 
-1. Diese Software bietet eine Informationsabfragefunktion für Ihre eigenen Geräte. Bitte schützen Sie Ihre persönlichen Informationen und geben Sie sie nur dann an Dritte weiter. Wenn Sie feststellen, dass Ihre persönlichen Informationen durchgesickert sind, wenden Sie sich bitte unverzüglich an den Software-Kundendienst, damit die Software entsprechende Maßnahmen ergreifen kann.
+1. This software provides an information retrieval function for your own devices. Please protect your personal information and only pass it on to third parties. If you find that your personal information has been leaked, contact Software Support immediately for the software to take appropriate action.
